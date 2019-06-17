@@ -2,7 +2,7 @@
 
 
 The code accompanying the paper entitled "Adaptive Sequence Submodularity".
-https://arxiv.org/abs/1902.05981\
+https://arxiv.org/abs/1902.05981
 
 This code is only for the Amazon application. The Wikipedia application requires a 1GB file to run and was thus not included.
 
