@@ -34,5 +34,5 @@ Note that if percTrain = 0.8, it will take about 20-30 minutes per trial (runtim
 Note that this code requires keras and matplotlib to run. It is possible that the way I import matplotlib doesn't work the same way on other machines. 
 
 ——————————
-
+## Jupyter Notebook
 adaptiveSubseq_notebook.ipynb is a jupyter notebook that runs the same code. Depending on your preference it may be easier to follow/understand.
